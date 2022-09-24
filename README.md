@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/jigar-sable/" target="_blank"> Nipun Mitra </a></h1>
+<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/nipun-mitra-ab01b120b/" target="_blank"> Nipun Mitra </a></h1>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3>
 
 - 🌱 Learning Never Stops 🚀
@@ -55,11 +55,11 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Falcon-09&show_icons=true&theme=dark&locale=en" alt="jigar-sable" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Falcon-09&show_icons=true&theme=dark&locale=en&layout=compact" alt="jigar-sable" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Falcon-09&show_icons=true&theme=dark&locale=en" alt="nipun-mitra" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Falcon-09&show_icons=true&theme=dark&locale=en&layout=compact" alt="nipun-mitra" /></td>
   </tr>
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Falcon-09&theme=dark" alt="jigar-sable" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Falcon-09&theme=dark" alt="nipun-mitra" /></p>
   </div>
